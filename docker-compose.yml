@@ -1,0 +1,5 @@
+plantuml:
+  #build: .
+  image: tukiyo3/plantuml-server-ja
+  ports:
+   - "8080:8080"
